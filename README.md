@@ -1,2 +1,2 @@
 # PokemonReviewSystem
- Pokemon Review System using .NET WebAPI
+ Pokemon Review System using ASP .NET WebAPI version 6
